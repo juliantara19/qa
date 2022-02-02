@@ -1,2 +1,1 @@
-# qa
-TASK 70 Commit
+TASK-8
